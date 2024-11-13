@@ -21,4 +21,5 @@ enter my username and password after that I write this command:
     docker push adenal/theroid_classification:v1.0
 Go to my docker hub to check if the image pushed 
 ![Alt](https://github.com/AdanALalawni/Thyroid_Classification/blob/main/images/Screenshot%202024-11-13%20151507.png)
-[Link to my Image ]([https://gaganpreetkaurkalsi.netlify.app/](https://hub.docker.com/r/adenal/theroid_classification/tags))
+
+[Link to my Image ](https://gaganpreetkaurkalsi.netlify.app/](https://hub.docker.com/r/adenal/theroid_classification/tags))
